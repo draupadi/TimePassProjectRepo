@@ -1,3 +1,3 @@
-ReviewAggregator
-================
-Repository for review aggregator project
+Sample Test Projects
+===============
+-> Repository for review aggregator project
